@@ -39,7 +39,8 @@
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=Sakaar-Sen&count_private=true&show_icons=true&theme=github_dark" alt="GitHub Stats" />
     <br>
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sakaar-Sen&hide=HTML&langs_count=8&layout=small&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakaar-Sen&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 </div>
 </div>
 
