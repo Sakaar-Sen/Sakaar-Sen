@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sakaar-Sen.Sakaar-Sen" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakaar+Sen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakaar+Sen!+👀;" />
 </h1>
 
-<h3 align="center">A passionate software developer and creator.</h3>
+<h3 align="center">🕹️ A passionate software developer and creator 🕹️</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **[redacted]**
  
- 🌱 I’m currently learning **NLP & Transformers**
+ 🤖 I’m currently learning **NLP && Transformers**
 
  💬 Ask me about **Deep Learning || Blockchain**
  
@@ -24,8 +24,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,c" /><br>
-    <img src="https://skillicons.dev/icons?i=react,mui,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,solidity,javascript,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,flask,nextjs" /> <br>
+    <img src="https://skillicons.dev/icons?i=photoshop,blender,pr" />
+
 </div>
 
 <br/>
@@ -49,7 +51,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=always+down+to+collab!;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Always+down+to+collab!+💫;">
 </h3>
 
 <br/>
