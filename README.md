@@ -37,9 +37,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img src="https://readme-stats.nbank.dev/api?username=Sakaar-Sen&show_icons=true&count_private=true&hide_border=false&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://readmestats.999857.xyz/api?username=Sakaar-Sen&show_icons=true&count_private=true&hide_border=false&theme=dark" alt="GitHub Stats" />
     <br>
-    <img src="https://readme-stats.nbank.dev/api/top-langs/?username=Sakaar-Sen&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://readmestats.999857.xyz/api/top-langs/?username=Sakaar-Sen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 </div>
