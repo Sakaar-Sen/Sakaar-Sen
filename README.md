@@ -14,7 +14,7 @@
  
  🤖 I’m currently learning **NLP && Transformers**
 
- 💬 Ask me about **Deep Learning || Blockchain**
+ 💬 Ask me about **Backend Development || Deep Learning**
  
  </div>
  
