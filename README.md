@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **[redacted]**
  
- 🤖 I’m currently learning **Financial Derivatives**
+ 🤖 I’m currently learning **System Design**
 
  💬 Ask me about **Backend Development || Deep Learning**
  
