@@ -14,7 +14,7 @@
  
  🤖 I’m currently learning **System Design**
 
- 💬 Ask me about **Backend Development || Deep Learning**
+ 💬 Ask me about **Backend Development**
  
  </div>
  
