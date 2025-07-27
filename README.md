@@ -24,8 +24,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,golang,javascript,c,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,flask,nextjs" /> <br>
+    <img src="https://skillicons.dev/icons?i=golang,python,django,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,nextjs,js,tailwind" /> <br>
     <img src="https://skillicons.dev/icons?i=photoshop,blender,pr" />
 
 </div>
