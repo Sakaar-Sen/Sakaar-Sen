@@ -21,7 +21,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Skill-Set ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=golang,python,django,c,cpp" /><br>
